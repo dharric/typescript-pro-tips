@@ -1,13 +1,13 @@
 {
-  "name": "code",
-  "version": "1.0.0",
+  "name": "typescript-pro-tips",
+  "version": "0.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "David Choi",
   "license": "ISC",
   "dependencies": {
     "typescript": "^3.8.2"
