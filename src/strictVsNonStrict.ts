@@ -1,4 +1,4 @@
 //non-strict this works
-let val: number = undefined;
+let nonStrictVal: number = undefined;
 //strict this works
-// let val: number | undefined = undefined;
+let strictVal: number | undefined = undefined;

@@ -15,4 +15,4 @@ function getVehicle(): Car | Truck {
 }
 let vehicle = getVehicle();
 console.log("wheels " + vehicle.wheels);
-//vehicle.payload();
+vehicle.payload();
