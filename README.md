@@ -1,4 +1,4 @@
 # typescript-pro-tips
-This repo is the source code for the book TypeScript Pro Tips.
+This repo is the source code for the book TypeScript Pro Tips by David Choi.
 
-The helps TypeScript developers understand and take full advantage of the TypeScript type system.
+The book helps TypeScript developers understand and take full advantage of the TypeScript type system.
